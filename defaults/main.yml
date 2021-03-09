@@ -1,2 +1,3 @@
 ---
-# defaults file for Demo_Role
+ansible_user_name: ansible-user
+ansible_user_password: redhat
